@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d224e98"],{e1c9:function(t,n,o){"use strict";o.r(n);var e=function(){var t=this,n=t.$createElement,o=t._self._c||n;return o("div",{staticClass:"container home-button"},[o("router-link",{staticClass:"btn btn-info",attrs:{to:"/createroom"}},[t._v("創立房間")]),o("router-link",{staticClass:"btn btn-info",attrs:{to:"/joinroom"}},[t._v("加入房間")])],1)},s=[],r=o("2877"),a={},i=Object(r["a"])(a,e,s,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d224e98.70dc2090.js.map
