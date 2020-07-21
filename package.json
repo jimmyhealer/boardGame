@@ -29,7 +29,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mutationobserver-shim": "^0.3.3",
     "popper.js": "^1.16.0",
     "portal-vue": "^2.1.6",
